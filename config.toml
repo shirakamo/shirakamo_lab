@@ -1,5 +1,14 @@
 baseURL = '/'
-languageCode = 'en-us'
+languageCode = "ja"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+paginate = "10" # Number of posts per page
 title = "Shirakamo's Lab."
 theme = "mainroad"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[Author] # Used in authorbox
+  name = "Shirakamo"
+  bio = "しらかもです。東京でデータサイエンティストとして働いています。このブログではデータ分析の理論、技術回りの記事を投稿していきます。"
+  avatar = "img/shirakamo_icon_blog.png"
