@@ -1,0 +1,5 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = "Shirakamo's Lab."
+theme = "mainroad"
+
