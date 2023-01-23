@@ -21,7 +21,7 @@ Streamlit を用いることでウェブアプリに詳しくない自分でも�
 ## Streamlit とは
 
 [Streamlit](https://streamlit.io/ "streamlit") とは、ウェブアプリを作成するための Python のウェブフレームワークの一つです。  
-データサイエンティストというか、データ分析者が簡単に分析結果をウェブアプリとして公開できるように設計されています。  
+データ分析者が簡単に分析結果をウェブアプリとして公開できるように設計されています。  
 
 データ分析業界の外の方には意外かもしれませんが、データサイエンティストは分析のアルゴリズムや実務に詳しい一方でアプリの作成方法やインフラ周りには疎いことがあります。  
 （少なくとも私はそうです。）  
@@ -201,7 +201,7 @@ def make_iris_df():
 `make_iris_df()` 関数で Iris データセットを `pandas.DataFrame` に変換しています。  
 データは以下のようになります。  
 
-![iris dataset](/images/streamlit_demo_iris_decisionTree/iris_df.png "iris_df")  
+![iris dataset](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/iris_df_lxlhlr.webp)  
 
 ### データの表示
 
@@ -262,7 +262,7 @@ $streamlit run streamlit_demo.py --server.port=8888
 
 さて、上記のようにウェブアプリを実行してブラウザで `localhost:8888` にアクセスすると次のように表示されるはずです。  
 
-![display df](/images/streamlit_demo_iris_decisionTree/st_display_df.png "display_df")  
+![display df](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_display_df_cxkaxs.webp)  
 
 上部の `+` ボタンで表示行数を設定できます。  
 図のように、自動でスクロール設定などがされます。  
@@ -297,7 +297,7 @@ def st_display_pairplot(df: pd.DataFrame):
 ウェブアプリ上では以下のように出力されます。  
 (上部の説明文はメイン部分で markdown で出力しています。)  
 
-![display pairplot](/images/streamlit_demo_iris_decisionTree/st_display_pairplot.png "display_pairplot")  
+![display pairplot](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_display_pairplot_af6bqd.webp)  
 
 ### plotly グラフの表示
 
@@ -341,7 +341,7 @@ def st_display_plotly(df: pd.DataFrame):
 (Plotly についての説明は割愛します。)  
 ブラウザ上で拡大縮小ができるグラフを作れます。  
 
-![display plotly](/images/streamlit_demo_iris_decisionTree/st_display_plotly.png "display_plotly")  
+![display plotly](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_display_plotly_vpvbqn.webp)  
 
 Streamlit は Plotly 以外にも Bokeh や Altair など有名な Python のグラフ描画パッケージと連携可能です。  
 
@@ -396,7 +396,7 @@ def st_display_dtree(clf):
 
 以下のように表示されます。  
 
-![display dtree](/images/streamlit_demo_iris_decisionTree/st_display_decision_tree.png "display_dtree")  
+![display dtree](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_display_decision_tree_ahbtpl.webp)  
 
 最終的に Gini 不純度が 0 になっていますね。完全に分類できたようです。  
 
@@ -479,7 +479,7 @@ if __name__ == "__main__":
 
 これでアップロードされたデータに対して予測が行われます。  
 
-![display pred](/images/streamlit_demo_iris_decisionTree/st_pred_uploaded_file.png "display_pred")  
+![display pred](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_pred_uploaded_file_jikbqk.webp)  
 
 これでデータ分析から機械学習による予測までの一連の流れをウェブアプリとして実装できました。  
 `streamlit_demo.py` の全体像は [githubリポジトリ](https://github.com/DogsCox/streamlit_demo/blob/master/streamlit_demo.py "streamlit_demo") を参照してください。  
