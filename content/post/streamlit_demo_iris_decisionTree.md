@@ -2,6 +2,8 @@
 title: "【Streamlit 入門 1】Streamlit で機械学習のデモアプリ作成"
 date: 2023-01-18T23:42:48+09:00
 description: "Streamlit で機械学習を用いた簡単なデモアプリを作成してみました。"
+thumbnail:
+  src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1674744578/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/thumbnail_streamlit_cuvmou.webp"
 categories:
 - "Webアプリ"
 tags:
