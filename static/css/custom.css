@@ -24,3 +24,14 @@
 .whoami-social a{
     display: inline;
 }
+
+/* font settings */
+body {
+	font-size: 1rem;
+}
+
+/* thumbnail settings */
+.list__thumbnail{
+    float: none;
+    margin-top: 10px;
+}
