@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
+summaryLength = 100 # サマリーの長さを120単語にする
 paginate = "10" # Number of posts per page
 title = "Shirakamo's Lab."
 theme = "mainroad"
@@ -32,6 +33,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   #googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   customCSS = ["css/custom.css"] # Include custom CSS files
   #customJS = ["js/custom.js"] # Include custom JS files
+  enableRobotsTXT = true # generate robot.txt
 
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color
