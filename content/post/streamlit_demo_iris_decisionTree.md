@@ -18,7 +18,7 @@ tags:
 Streamlit を用いることでウェブアプリに詳しくない自分でもとても簡単に機械学習アプリを作ることができました。  
 この記事では Streamlit を用いたデータ分析アプリの構築方法をコードとともに説明していきます。
 
-コードの全体は [github リポジトリ](https://github.com/DogsCox/streamlit_demo "streamlit_repo") にアップしてあります。  
+コードの全体は [github リポジトリ](https://github.com/shirakamo/streamlit_demo "streamlit_repo") にアップしてあります。  
 必要に応じて参照してください。  
 
 ## Streamlitとは
@@ -482,7 +482,7 @@ if __name__ == "__main__":
 ![display pred](https://res.cloudinary.com/dda9f1d6p/image/upload/v1674483899/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/st_pred_uploaded_file_jikbqk.webp)  
 
 これでデータ分析から機械学習による予測までの一連の流れをウェブアプリとして実装できました。  
-`streamlit_demo.py` の全体像は [githubリポジトリ](https://github.com/DogsCox/streamlit_demo/blob/master/streamlit_demo.py "streamlit_demo") を参照してください。  
+`streamlit_demo.py` の全体像は [githubリポジトリ](https://github.com/shirakamo/streamlit_demo/blob/main/streamlit_demo.py "streamlit_demo") を参照してください。  
 
 ## 最後に
 
