@@ -35,3 +35,14 @@ body {
     float: none;
     margin-top: 10px;
 }
+
+/* スマホにのみ適用 */
+@media only screen and (max-width: 750px) {
+  figure.list__thumbnail{
+    float: none;
+    margin-top: 10px;
+  }
+  figure.list__thumbnail img{
+    max-width: 100%;
+  }
+}
