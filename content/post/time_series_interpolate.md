@@ -14,7 +14,6 @@ tags:
 時系列データにおいて、タイムスタンプが欠損している場合の対処方法です。  
 こちらの書籍で書かれている内容をPythonでやってみた、という記事です。  
 （書籍ではRを使用しています。）  
-
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
@@ -23,10 +22,10 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"実践時系列解析 統計と機械学習による予測","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/guruguru-ds\/cabinet\/b\/9\/601\/9784873119601.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/guruguru-ds\/9784873119601\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/guruguru-ds\/9784873119601\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E5%AE%9F%E8%B7%B5%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%20%E7%B5%B1%E8%A8%88%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%88%E6%B8%AC","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"I4qps","s":"s"});
+msmaflink({"n":"実践時系列解析 統計と機械学習による予測","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/guruguru-ds\/cabinet\/b\/9\/601\/9784873119601.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/guruguru-ds\/9784873119601\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/guruguru-ds\/9784873119601\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E5%AE%9F%E8%B7%B5%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%20%E7%B5%B1%E8%A8%88%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%88%E6%B8%AC","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"psOlS","s":"s"});
 </script>
-<div id="msmaflink-I4qps">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<div id="msmaflink-psOlS">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->  
 
 時系列データにおいて、タイムスタンプはデータ行のインデックスとして考えられます。  
 そのためタイムスタンプの欠損は「あるはずのデータ行の全てが存在しない」という状態に相当します。  
