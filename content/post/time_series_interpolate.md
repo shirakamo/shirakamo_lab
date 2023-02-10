@@ -1,6 +1,7 @@
 ---
 title: "タイムスタンプが欠損した時系列データへの対処"
 date: 2023-02-07T22:49:53+09:00
+description: "タイムスタンプが欠損している場合の対処方法を実際に試してみます"
 draft: false 
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1675781135/shirakamo_lab_tech_blog/time_series_interpolate/time_series_interpolate_zjnuaj.webp"
