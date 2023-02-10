@@ -1,6 +1,7 @@
 ---
 title: "【Googleデータポータル入門第1回】Googleデータポータルのセットアップ&データの取り込み"
 date: 2023-02-10T18:49:24+09:00
+description:  "Googleデータポータルを使えるようにしてサンプルデータを取り込んでみます。"
 draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1676024035/shirakamo_lab_tech_blog/google_dataportal_setup/google_dataportal_setup_thumbnails_bnnovg.webp"
