@@ -70,7 +70,7 @@ ColaboratoryでGoogleドライブ上のデータを読み込めるようにし�
 ![colab folder](https://res.cloudinary.com/dda9f1d6p/image/upload/v1676030197/shirakamo_lab_tech_blog/google_dataportal_trans_data/colab_folder_plnzio.webp "colab_folder")  
 
 次に、現れた画面からフォルダのマーク内にGoogleドライブのマークが書かれたところをクリックします。
-これでGoogleドライブと接続されます。場合によっては接続に時間がかかることもあります。
+これでGoogleドライブと接続されます。場合によっては接続に時間がかかることもあります。  
 ![colab mount](https://res.cloudinary.com/dda9f1d6p/image/upload/v1676030197/shirakamo_lab_tech_blog/google_dataportal_trans_data/colab_mount_fmos1n.webp "colab_mount")  
 
 接続されると、 "drive" → "MyDrive" 以下に自分がGoogleドライブに作成したフォルダの一覧が見られるようになります。  
@@ -91,7 +91,8 @@ df.head()
 ```
 
 1行目でデータ処理用のライブラリ "Pandas" を読み込み、2行目でデータを読み込み、3行目でデータの初め5行を表示しています。  
-このコードを実行すると、以下の出力が得られます。 ![original data](/images/google_dataportal_trans_data/original_data.png "original_data")  
+このコードを実行すると、以下の出力が得られます。  
+![original data](https://res.cloudinary.com/dda9f1d6p/image/upload/v1676030197/shirakamo_lab_tech_blog/google_dataportal_trans_data/original_data_mcepwa.webp "original_data")  
 
 次に、データを変形し、その結果を確認します。今回はテストとして全データは使わず、映画タイトルとIMDbの評価点、各視聴サービスごとの視聴可能状況のみを用います。  
 

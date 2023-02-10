@@ -263,7 +263,7 @@ END
 
 これはデータポータルで使用できる関数の中でも CASE式と呼ばれるもので、条件分岐を実現する関数です。  
 
-[CASE関数](https://support.google.com/datastudio/answer/7020724?hl=ja&ref_topic=10490726#zippy=%2C%E3%81%93%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%AE%E5%86%85%E5%AE%B9 "case"  
+[CASE関数](https://support.google.com/datastudio/answer/7020724?hl=ja&ref_topic=10490726#zippy=%2C%E3%81%93%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%AE%E5%86%85%E5%AE%B9 "case")  
 
 このように、データポータルには様々な集計を実現するための関数があるので、必要に応じて使用しましょう。  
 関数は [こちら](https://support.google.com/datastudio/table/6379764?hl=ja "funcs") にまとまっています。  
