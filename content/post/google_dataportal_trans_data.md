@@ -6,7 +6,7 @@ draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1676030201/shirakamo_lab_tech_blog/google_dataportal_trans_data/google_dataportal_trans_data_thumbnail_bm7i1i.webp"
 categories:
-- "データ分析"
+- "ダッシュボード製作"
 tags:
 - "Googleデータポータル"
 - "Python"
