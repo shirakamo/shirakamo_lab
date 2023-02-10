@@ -5,7 +5,7 @@ description: "Streamlit で機械学習を用いた簡単なデモアプリを�
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1674744578/shirakamo_lab_tech_blog/streamlit_demo_iris_decisionTree/thumbnail_streamlit_cuvmou.webp"
 categories:
-- "Webアプリ"
+- "アプリ開発"
 tags:
 - "Python"
 - "Streamlit"
