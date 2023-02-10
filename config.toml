@@ -6,7 +6,6 @@ summaryLength = 50 # サマリーの長さを50単語にする
 paginate = "10" # Number of posts per page
 title = "Shirakamo's Lab."
 theme = "mainroad"
-unsafe = true # インラインHTMLを有効にする
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
@@ -72,3 +71,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   Name = "プライバシーポリシー"
   URL = "/privacy/"
   Weight = 3
+
+[markup] # インラインHTMLを有効化
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
