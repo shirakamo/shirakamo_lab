@@ -218,6 +218,11 @@ GitHubのリポジトリをCloudFlare Pagesとリンクさせることでブロ�
 2. ログイン後のダッシュボード右側のメニューから `Pages` を選択
 3. 後は画面の指示に従ってGitHubのリポジトリと接続
 
+基本的には上記の設定で公開できるのですが、CloudFlare Pagesでデフォルトで利用しているHugoがver0.54と大分古いため問題が生じる可能性もあります。  
+そこで環境変数で自分のローカルPCにインストールしたHugoと同じバージョンに合わせておいた方が良いです。  
+
+- [Hugo プロジェクトを Cloudflare Pages へデプロイ](https://peaceiris.com/ja/posts/deploy-hugo-project-to-cloudflare-pages/#:~:text=%E3%81%84%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B-,Hugo%20Version,-Hugo%20%E3%81%AF%20extended "env_hugo_ver")
+
 ## 5.独自ドメインの設定
 
 こちらの作業は必須ではありません。  
