@@ -40,19 +40,6 @@ tags:
 (伝わっているか心配ですが)  
 今後もメイン PC はデスクトップにする予定なので、これは新たな発見でした。
 
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"エレコム 電源タップ 1m シャッタータップ 3個口 ほこり防止 コンセント 延長コード タップ OAタップ オフィス 延長ケーブル コード ホワイト T-ST02N-2310WH","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/elecom\/cabinet","p":["\/s500_03\/t-st02n-2310wh_03.jpg","\/a200_10\/t-st02n-2310wh_01.jpg","\/s500_03\/t-st02n-2310wh_04.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/elecom\/4549550103107\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/elecom\/4549550103107\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%20%E9%9B%BB%E6%BA%90%E3%82%BF%E3%83%83%E3%83%97%201m%20%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E3%82%BF%E3%83%83%E3%83%97%203%E5%80%8B%E5%8F%A3%20%E3%81%BB%E3%81%93%E3%82%8A%E9%98%B2%E6%AD%A2%20%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%20%E5%BB%B6%E9%95%B7%E3%82%B3%E3%83%BC%E3%83%89%20%E3%82%BF%E3%83%83%E3%83%97%20OA%E3%82%BF%E3%83%83%E3%83%97%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%20%E5%BB%B6%E9%95%B7%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%20%E3%82%B3%E3%83%BC%E3%83%89%20%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%20T-ST02N-2310WH","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"WY21S","s":"s"});
-</script>
-<div id="msmaflink-WY21S">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-
 ## 初回立ち上げ後の作業
 
 電源を入れた後に初期設定として行った作業を列挙します。  

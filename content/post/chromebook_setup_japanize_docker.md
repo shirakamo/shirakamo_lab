@@ -38,19 +38,6 @@ Chromebook の環境構築は結構マシン依存する...? 気がします。
 
 はい、ChromebookではなくChromeboxでした。  
 
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"ASUS｜エイスース デスクトップパソコン Chromebox 4 CHROMEBOX4-G3019UN [モニター無し \/intel Core i3 \/メモリ：8GB \/SSD：128GB \/2021年5月モデル]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/biccamera\/cabinet\/product\/6531","p":["\/00000009256946_a01.jpg","\/00000009256946_a02.jpg","\/00000009256946_a03.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/biccamera\/0192876974728\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/biccamera\/0192876974728\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=ASUS%EF%BD%9C%E3%82%A8%E3%82%A4%E3%82%B9%E3%83%BC%E3%82%B9%20%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%20Chromebox%204%20CHROMEBOX4-G3019UN%20%5B%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E7%84%A1%E3%81%97%20%2Fintel%20Core%20i3%20%2F%E3%83%A1%E3%83%A2%E3%83%AA%EF%BC%9A8GB%20%2FSSD%EF%BC%9A128GB%20%2F2021%E5%B9%B45%E6%9C%88%E3%83%A2%E3%83%87%E3%83%AB%5D","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"VlQOz","s":"s"});
-</script>
-<div id="msmaflink-VlQOz">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-
 ## corostini の日本語化
 
 色々なサイト様を参考にしたのですが、うまく行かないことが多々あり...  

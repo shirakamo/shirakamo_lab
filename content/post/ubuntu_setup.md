@@ -16,19 +16,6 @@ CPUがCore-i5、メモリ8GB、ディスクSSD 256GBなのでデフォルトのw
 今までも何度かWindows PCにUbuntuをインストールしてきたのですが、そのたびに毎回同じことを同じページで調べているような気がしてきたので、これを期に手順をまとめて備忘録として残しておきます。  
 といってもほとんど偉大な先人たちが残してくれたウェブ上の情報をコピペしているだけなので、参考URL集みたいになってしまいました。
 
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"Lenovo ThinkCentre M73 Tiny Core i5 メモリ 8GB SSD 256GB(新品) 正規版Office付き DVDドライブ 第4世代 USB3.0 DisplayPort 中古デスクトップパソコン Windows10 中古パソコン デスクトップPC Win10 レノボ","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/pc-max-shop\/cabinet\/05472648\/05472650\/05473187","p":["\/imgrc0069034338.jpg","\/back.jpg","\/size_out.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/pc-max-shop\/tei-dt-lenovo-m73\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/pc-max-shop\/tei-dt-lenovo-m73\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=Lenovo%20ThinkCentre%20M73%20Tiny%20Core%20i5%20%E3%83%A1%E3%83%A2%E3%83%AA%208GB%20SSD%20256GB(%E6%96%B0%E5%93%81)%20%E6%AD%A3%E8%A6%8F%E7%89%88Office%E4%BB%98%E3%81%8D%20DVD%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%20%E7%AC%AC4%E4%B8%96%E4%BB%A3%20USB3.0%20DisplayPort%20%E4%B8%AD%E5%8F%A4%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%20Windows10%20%E4%B8%AD%E5%8F%A4%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%20%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97PC%20Win10%20%E3%83%AC%E3%83%8E%E3%83%9C","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"mGBnP","s":"s"});
-</script>
-<div id="msmaflink-mGBnP">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-
 ## 旧PCでUbuntuの起動ディスクを作成
 
 起動ディスクと言っていますがUSBメモリでやりました。  
@@ -117,19 +104,6 @@ BIOSで何をどうしたかはちょっと覚えていないのですが、電�
 
 こちらのページを参考に設定しました。 [Linuxで使えるUSB Wifiの探索 (Ubuntu 20.04LTS)](https://qiita.com/takaf05/items/5034e9234331ed6ecf2f "ubuntu_wifi")  
 無線LANのレシーバもこちらのページに記載されている "TP-Link T2U" を新たに購入して使用しましたが、もしかしたら付属のレシーバでもできたのかもしれません...  
-
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"TP-Link(ティーピーリンク) Archer T2U Plus AC600 ハイパワー デュアルバンド 無線LAN子機","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/tokka-com\/cabinet\/434\/6935364086220.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/tokka-com\/6935364086220\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/tokka-com\/6935364086220\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"id":2,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=TP-Link(%E3%83%86%E3%82%A3%E3%83%BC%E3%83%94%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF)%20Archer%20T2U%20Plus%20AC600%20%E3%83%8F%E3%82%A4%E3%83%91%E3%83%AF%E3%83%BC%20%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%20%E7%84%A1%E7%B7%9ALAN%E5%AD%90%E6%A9%9F","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":2}],"eid":"bDn4R","s":"s"});
-</script>
-<div id="msmaflink-bDn4R">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
 
 ## pyenvでpythonインストール
 
