@@ -11,7 +11,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Shirakamo"
-  bio = "しらかもです。東京でデータサイエンティストとして働いています。このブログではデータ分析回りの記事を投稿していきます。"
+  bio = "しらかもです。このブログではデータ分析回りの記事を投稿していきます。問い合わせはTwitterなどでお願いいたします。"
+  location ="Tokyo, Japan"
   avatar = "img/whoami/shirakamo_icon_blog.png"
 
 [Params]
@@ -58,6 +59,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["whoami", "categories", "taglist"]
+
+[Params.widgets.social]
+  twitter = "Shirakamo_lab"
+  github = "shirakamo"
 
 [[Menus.main]]
   Name = "ホーム"
