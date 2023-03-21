@@ -70,7 +70,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   Weight = 1
 [[Menus.main]]
   Name = "投稿一覧"
-  URL = "/posts/"
+  URL = "/post/"
   Weight = 2
 [[Menus.main]]
   Name = "プライバシーポリシー"
