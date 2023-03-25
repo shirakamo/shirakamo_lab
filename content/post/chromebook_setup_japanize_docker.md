@@ -2,7 +2,7 @@
 title: "Chromebookをセットアップした手順"
 date: 2023-02-11T22:26:31+09:00
 description: "Chromebook PCセットアップの作業ログ"
-draft: false
+draft: true
 categories:
 - "ガジェット"
 tags:

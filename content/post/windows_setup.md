@@ -2,7 +2,7 @@
 title: "Windows PCのセットアップした手順"
 date: 2023-02-11T22:46:46+09:00
 description: "Windows PCセットアップの作業ログ"
-draft: false
+draft: true
 categories:
 - "ガジェット"
 tags:
