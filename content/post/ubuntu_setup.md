@@ -2,7 +2,7 @@
 title: "新PCにUbuntuをインストールしてセットアップした手順"
 date: 2023-02-11T22:36:23+09:00
 description: "Ubuntuセットアップの作業ログ"
-draft: true
+draft: false
 categories:
 - "ガジェット"
 tags:
@@ -15,6 +15,19 @@ CPUがCore-i5、メモリ8GB、ディスクSSD 256GBなのでデフォルトのw
 
 今までも何度かWindows PCにUbuntuをインストールしてきたのですが、そのたびに毎回同じことを同じページで調べているような気がしてきたので、これを期に手順をまとめて備忘録として残しておきます。  
 といってもほとんど偉大な先人たちが残してくれたウェブ上の情報をコピペしているだけなので、参考URL集みたいになってしまいました。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"レノボ 超ミニPC ThinkCentre M700 Tiny、Microsoft Office 2019搭載\/Intel Core i5-6500T\/ RAM:DDR4 8GB\/高速SSD:256GB\/ 静音性\/Bluetooth\/光学ドライブ\/4K HDR対応\/\/Windows 11搭載(整備済み品)","b":"karamel","t":"Lenovo ThinkCentre M700 Tiny","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41BeLVrFqdL._SL500_.jpg","\/41SVz5BvQBL._SL500_.jpg","\/41jsF3C+3zL._SL500_.jpg","\/41NqfifQqFL._SL500_.jpg","\/41tgUTDaiTL._SL500_.jpg","\/41A5FajawlL._SL500_.jpg","\/41fwHMyXaGL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0B528FWCP","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0B528FWCP","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%AC%E3%83%8E%E3%83%9C%20%E8%B6%85%E3%83%9F%E3%83%8BPC%20ThinkCentre%20M700%20Tiny%E3%80%81Microsoft%20Office%202019%E6%90%AD%E8%BC%89%2FIntel%20Core%20i5-6500T%2F%20RAM%3ADDR4%208GB%2F%E9%AB%98%E9%80%9FSSD%3A256GB%2F%20%E9%9D%99%E9%9F%B3%E6%80%A7%2FBluetooth%2F%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%2F4K%20HDR%E5%AF%BE%E5%BF%9C%2F%2FWindows%2011%E6%90%AD%E8%BC%89(%E6%95%B4%E5%82%99%E6%B8%88%E3%81%BF%E5%93%81)\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%83%AC%E3%83%8E%E3%83%9C%20%E8%B6%85%E3%83%9F%E3%83%8BPC%20ThinkCentre%20M700%20Tiny%E3%80%81Microsoft%20Office%202019%E6%90%AD%E8%BC%89%2FIntel%20Core%20i5-6500T%2F%20RAM%3ADDR4%208GB%2F%E9%AB%98%E9%80%9FSSD%3A256GB%2F%20%E9%9D%99%E9%9F%B3%E6%80%A7%2FBluetooth%2F%E5%85%89%E5%AD%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%2F4K%20HDR%E5%AF%BE%E5%BF%9C%2F%2FWindows%2011%E6%90%AD%E8%BC%89(%E6%95%B4%E5%82%99%E6%B8%88%E3%81%BF%E5%93%81)","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"sJnSp","s":"s"});
+</script>
+<div id="msmaflink-sJnSp">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## 旧PCでUbuntuの起動ディスクを作成
 
@@ -104,6 +117,19 @@ BIOSで何をどうしたかはちょっと覚えていないのですが、電�
 
 こちらのページを参考に設定しました。 [Linuxで使えるUSB Wifiの探索 (Ubuntu 20.04LTS)](https://qiita.com/takaf05/items/5034e9234331ed6ecf2f "ubuntu_wifi")  
 無線LANのレシーバもこちらのページに記載されている "TP-Link T2U" を新たに購入して使用しましたが、もしかしたら付属のレシーバでもできたのかもしれません...  
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"TP-Link WiFi 無線LAN 子機 AC600 433Mbps + 200Mbps Windows\/Mac OS 対応 ナノ設計 デュアルバンド 3年保証 Archer T2U Nano","b":"TP-Link","t":"Archer T2U Nano","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41vJOq33DcL._SL500_.jpg","\/41yc-MA+J+L._SL500_.jpg","\/51ADKE3q9lL._SL500_.jpg","\/51ritwIatRL._SL500_.jpg","\/41HoVmmRnAL._SL500_.jpg","\/41tcHJcVNkL._SL500_.jpg","\/41-zHCZl6ZL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07MXHJ6KB","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B07MXHJ6KB","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/TP-Link%20WiFi%20%E7%84%A1%E7%B7%9ALAN%20%E5%AD%90%E6%A9%9F%20AC600%20433Mbps%20%2B%20200Mbps%20Windows%2FMac%20OS%20%E5%AF%BE%E5%BF%9C%20%E3%83%8A%E3%83%8E%E8%A8%AD%E8%A8%88%20%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%203%E5%B9%B4%E4%BF%9D%E8%A8%BC%20Archer%20T2U%20Nano\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=TP-Link%20WiFi%20%E7%84%A1%E7%B7%9ALAN%20%E5%AD%90%E6%A9%9F%20AC600%20433Mbps%20%2B%20200Mbps%20Windows%2FMac%20OS%20%E5%AF%BE%E5%BF%9C%20%E3%83%8A%E3%83%8E%E8%A8%AD%E8%A8%88%20%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%203%E5%B9%B4%E4%BF%9D%E8%A8%BC%20Archer%20T2U%20Nano","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"zRc0w","s":"s"});
+</script>
+<div id="msmaflink-zRc0w">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## pyenvでpythonインストール
 

@@ -15,7 +15,18 @@ tags:
 こちらの書籍で書かれている内容をPythonでやってみた、という記事です。  
 （書籍ではRを使用しています。）  
 
-- [実践時系列解析](https://www.oreilly.co.jp/books/9784873119601/ "practical_timeseries_analysis")
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"実践 時系列解析 ―統計と機械学習による予測","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51RYw2ZZUfL._SL500_.jpg","\/51Bts0DzzRL._SL500_.jpg","\/51jRPsFZYVL._SL500_.jpg","\/51rsaMcN-ZL._SL500_.jpg","\/51a5L2gAuIL._SL500_.jpg","\/41UHYSWHv9L._SL500_.jpg","\/41hxXTOBjIL._SL500_.jpg","\/51AxNTxsVoL._SL500_.jpg","\/41qMeM6q9tL._SL500_.jpg","\/4186McK3xCL._SL500_.jpg","\/418BOJwh9LL._SL500_.jpg","\/41hJVAoUmWL._SL500_.jpg","\/41ANkEZVEtL._SL500_.jpg","\/41K6OWKDSQL._SL500_.jpg","\/31Jg+vUAKvL._SL500_.jpg","\/51fHZQdPuTL._SL500_.jpg","\/41DXyVF7ZJL._SL500_.jpg","\/41+h++rXaSL._SL500_.jpg","\/51y0rS6XJiL._SL500_.jpg","\/51jAgwRn4CL._SL500_.jpg","\/51u+aDDIaLL._SL500_.jpg","\/51ZfYj4VhKL._SL500_.jpg","\/51FVoPGzrUL._SL500_.jpg","\/51O03r6dFxL._SL500_.jpg","\/51Yk23UIgGL._SL500_.jpg","\/515YeGMOBfL._SL500_.jpg","\/51WxpOcB2XL._SL500_.jpg","\/51nlmu1VhiL._SL500_.jpg","\/41OPkTaZ-OL._SL500_.jpg","\/518UNHgx4tL._SL500_.jpg","\/41HeH-VSjLL._SL500_.jpg","\/51vNgE58pPL._SL500_.jpg","\/51lS4JA6+fL._SL500_.jpg","\/51q8M+VXVbL._SL500_.jpg","\/51s1V3EKBmL._SL500_.jpg","\/518Jz3MH39L._SL500_.jpg","\/51lpRFB0WlL._SL500_.jpg","\/41mpriquCKL._SL500_.jpg","\/51unglSx+7L._SL500_.jpg","\/41aL7XV-p4L._SL500_.jpg","\/51ce8hrcxcL._SL500_.jpg","\/51h6LCjpQFL._SL500_.jpg","\/51Ebt5aS6sL._SL500_.jpg","\/41AlXpFRQeL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/487311960X","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/487311960X","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E5%AE%9F%E8%B7%B5%20%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%20%E2%80%95%E7%B5%B1%E8%A8%88%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%88%E6%B8%AC\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E5%AE%9F%E8%B7%B5%20%E6%99%82%E7%B3%BB%E5%88%97%E8%A7%A3%E6%9E%90%20%E2%80%95%E7%B5%B1%E8%A8%88%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E4%BA%88%E6%B8%AC","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"6Adxt","s":"s"});
+</script>
+<div id="msmaflink-6Adxt">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 時系列データにおいて、タイムスタンプはデータ行のインデックスとして考えられます。  
 そのためタイムスタンプの欠損は「あるはずのデータ行の全てが存在しない」という状態に相当します。  

@@ -111,6 +111,19 @@ Hugoでのテーマを利用したサイト制作についてはまずは公式�
 
 サイトのカスタマイズ方法などは使用するテーマに依存するのでテーマごとのドキュメントなどを参考すると良いです。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Hugoで始める静的サイト構築入門　静的サイトジェネレーターで作る自作サイト","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51DRDYXF0CL._SL500_.jpg","\/21zvhc3t76L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/4844379208","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/4844379208","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Hugo%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E7%AF%89%E5%85%A5%E9%96%80%E3%80%80%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B5%E3%82%A4%E3%83%88\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=Hugo%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E6%A7%8B%E7%AF%89%E5%85%A5%E9%96%80%E3%80%80%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7%E4%BD%9C%E3%82%8B%E8%87%AA%E4%BD%9C%E3%82%B5%E3%82%A4%E3%83%88","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"7edgX","s":"s"});
+</script>
+<div id="msmaflink-7edgX">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ### 2.1 テーマ選択
 
 今回は比較的カスタマイズしやすそうなブログ向けのデザインとして [Mainroad](https://themes.gohugo.io/themes/mainroad/ "mainroad") にしました。  

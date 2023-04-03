@@ -2,7 +2,7 @@
 title: "Windows PCのセットアップした手順"
 date: 2023-02-11T22:46:46+09:00
 description: "Windows PCセットアップの作業ログ"
-draft: true
+draft: false
 categories:
 - "ガジェット"
 tags:
@@ -35,6 +35,19 @@ tags:
 実は初めてデスクトップPCを買ったんですよね。  
 デスクトップPCの場合、電源ユニットが内蔵されています（当然）。  
 結果、電源ユニットとコンセント結ぶケーブルだけではコンセントに届かず、追加で延長ケーブルを購入する羽目になりました......  
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"サンワサプライ 電源延長コード 2m トラッキング火災予防絶縁キャップ付きスイングプラグ TAP-EX2102","b":"サンワサプライ(Sanwa Supply)","t":"TAP-EX2102","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/31w-XxBn-mL._SL500_.jpg","\/31ynCWbDp5L._SL500_.jpg","\/41fB+XdkC6L._SL500_.jpg","\/41yE49uhK9L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B019O0JRSC","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B019O0JRSC","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%20%E9%9B%BB%E6%BA%90%E5%BB%B6%E9%95%B7%E3%82%B3%E3%83%BC%E3%83%89%202m%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E7%81%AB%E7%81%BD%E4%BA%88%E9%98%B2%E7%B5%B6%E7%B8%81%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%B0%20TAP-EX2102\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=%E3%82%B5%E3%83%B3%E3%83%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%20%E9%9B%BB%E6%BA%90%E5%BB%B6%E9%95%B7%E3%82%B3%E3%83%BC%E3%83%89%202m%20%E3%83%88%E3%83%A9%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E7%81%AB%E7%81%BD%E4%BA%88%E9%98%B2%E7%B5%B6%E7%B8%81%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97%E4%BB%98%E3%81%8D%E3%82%B9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%B0%20TAP-EX2102","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"Q0nUr","s":"s"});
+</script>
+<div id="msmaflink-Q0nUr">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ノートPCの場合、電源ユニットのケーブルのおかげで延長ケーブルいらなかったんですよね。  
 (伝わっているか心配ですが)  
