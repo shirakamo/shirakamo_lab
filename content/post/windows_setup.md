@@ -48,6 +48,7 @@ msmaflink({"n":"サンワサプライ 電源延長コード 2m トラッキン�
 </script>
 <div id="msmaflink-Q0nUr">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
+<br>
 
 ノートPCの場合、電源ユニットのケーブルのおかげで延長ケーブルいらなかったんですよね。  
 (伝わっているか心配ですが)  

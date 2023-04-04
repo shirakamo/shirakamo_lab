@@ -50,6 +50,7 @@ msmaflink({"n":"ASUS Chromebox4 ミニPC 小型PC (Chrome OS\/コンパクト\/4
 </script>
 <div id="msmaflink-n2WaR">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
+<br>
 
 ## corostini の日本語化
 

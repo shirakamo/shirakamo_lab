@@ -28,6 +28,7 @@ msmaflink({"n":"レノボ 超ミニPC ThinkCentre M700 Tiny、Microsoft Office 2
 </script>
 <div id="msmaflink-sJnSp">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
+<br>
 
 ## 旧PCでUbuntuの起動ディスクを作成
 

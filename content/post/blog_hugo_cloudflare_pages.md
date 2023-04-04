@@ -123,6 +123,7 @@ msmaflink({"n":"Hugoで始める静的サイト構築入門　静的サイトジ
 </script>
 <div id="msmaflink-7edgX">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
+<br>
 
 ### 2.1 テーマ選択
 

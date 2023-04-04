@@ -91,6 +91,7 @@ msmaflink({"n":"データサイエンス100本ノック構造化データ加工�
 </script>
 <div id="msmaflink-79kgh">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
+<br>
 
 公式の説明では、dockerイメージをビルドすることで演習用の環境を構築する手順が示されています。  
 ただ、今はとりあえずPolarsでデータを弄ることができれば良いので、ローカル環境にデータだけ持ってきて作業します。  
