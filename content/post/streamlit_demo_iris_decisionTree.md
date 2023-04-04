@@ -29,9 +29,9 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
 (window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"Python,Pandas,Streamlitで体験するインタラクティブダッシュボード開発入門","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41Ufo7xIxuS._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B099K78T48","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B099K78T48","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Python%2CPandas%2CStreamlit%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80\/","a_id":3829408,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1\u0026p=Python%2CPandas%2CStreamlit%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80","a_id":3829423,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"1kqgi","s":"s"});
+msmaflink({"n":"Python,Pandas,Streamlitで体験するインタラクティブダッシュボード開発入門","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/41Ufo7xIxuS._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B099K78T48","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B099K78T48","a_id":3885217,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":0}],"eid":"ZBwL5","s":"s"});
 </script>
-<div id="msmaflink-1kqgi">リンク</div>
+<div id="msmaflink-ZBwL5">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 <br>
 
