@@ -69,7 +69,7 @@ Polarsにおいてデータフレームから特定の列を抽出するには `
 
 ### select
 
-Polarsで特定の行を抽出するために用います。  
+Polarsで特定の列を抽出するために用います。  
 
 [polars.DataFrame.select](https://pola-rs.github.io/polars/py-polars/html/reference/dataframe/api/polars.DataFrame.select.html#polars.DataFrame.select "select")  
 
