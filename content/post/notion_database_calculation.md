@@ -6,7 +6,7 @@ draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1678608473/shirakamo_lab_tech_blog/notion_calculation_demo/thumbnails_notion_calculation_demo_x2i2xo.webp"
 categories:
-- "ツール紹介"
+- "データ分析"
 tags:
 - "Notion"
 ---

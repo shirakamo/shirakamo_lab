@@ -6,10 +6,9 @@ draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1676177485/shirakamo_lab_tech_blog/blog_hugo_cloudflare_pages/blog_hugo_cloudflare_pages_b9hwhg.webp"
 categories:
-- "サイト制作"
+- "エンジニアリング"
 tags:
-- "Hugo"
-- "CloudFlare Pages"
+- "サイト制作"
 ---
 
 このブログを公開するまでに行った作業をまとめました。  

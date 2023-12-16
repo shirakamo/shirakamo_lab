@@ -4,9 +4,9 @@ date: 2023-02-11T22:46:46+09:00
 description: "Windows PCセットアップの作業ログ"
 draft: false
 categories:
-- "ガジェット"
+- "エンジニアリング"
 tags:
-- "Windows"
+- "セットアップ"
 ---
 
 やんごとなき理由によりWindows PCが必要になってしまいました。  

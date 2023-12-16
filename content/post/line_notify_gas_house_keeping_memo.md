@@ -6,7 +6,7 @@ draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1675696631/shirakamo_lab_tech_blog/line_notify_gas_house_keeping_memo/line_notify_gas_jspy2t.webp"
 categories:
-- "アプリ開発"
+- "エンジニアリング"
 tags:
 - "GAS"
 - "LINE Notify"

@@ -4,9 +4,9 @@ date: 2023-02-11T22:26:31+09:00
 description: "Chromebook PCセットアップの作業ログ"
 draft: false
 categories:
-- "ガジェット"
+- "エンジニアリング"
 tags:
-- "Chromebook"
+- "セットアップ"
 ---
 
 この記事ではChromebookで使えるLinux環境 "crostini" の日本語化とDockerのセットアップ方法を解説します。  

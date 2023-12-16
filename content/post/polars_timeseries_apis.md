@@ -8,7 +8,6 @@ thumbnail:
 categories:
 - "データ分析"
 tags:
-- "Python"
 - "Polars"
 ---
 

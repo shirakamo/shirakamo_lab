@@ -6,10 +6,9 @@ draft: false
 thumbnail:
   src: "https://res.cloudinary.com/dda9f1d6p/image/upload/v1676041565/shirakamo_lab_tech_blog/portfolio_html5up_github_pages/blog_thumbnails_k7h5v1.webp"
 categories:
-- "サイト制作"
+- "エンジニアリング"
 tags:
-- "HTML5 UP"
-- "Github Pages"
+- "サイト制作"
 ---
 
 HTML5 UPのテンプレートとGithub Pagesを利用して自分のポートフォリオサイトを作成、公開した作業のまとめです。  

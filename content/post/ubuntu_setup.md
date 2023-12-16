@@ -4,7 +4,7 @@ date: 2023-02-11T22:36:23+09:00
 description: "Ubuntuセットアップの作業ログ"
 draft: false
 categories:
-- "ガジェット"
+- "エンジニアリング"
 tags:
 - "Linux"
 ---
