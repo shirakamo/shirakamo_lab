@@ -11,7 +11,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Shirakamo"
-  bio = "しらかもです。このブログではデータ分析回りの記事を投稿していきます。問い合わせはTwitterなどでお願いいたします。"
+  bio = "しらかもです。このブログではデータ分析回りの記事を投稿していきます。問い合わせはX（旧Twitter）などでお願いいたします。"
   location ="Tokyo, Japan"
   avatar = "img/whoami/shirakamo_icon_blog.png"
 
@@ -73,9 +73,21 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   URL = "/post/"
   Weight = 2
 [[Menus.main]]
+  Name = "カテゴリ一覧"
+  URL = "/categories/"
+  Weight = 3
+[[Menus.main]]
+  Name = "タグ一覧"
+  URL = "/tags/"
+  Weight = 4
+[[Menus.main]]
   Name = "プライバシーポリシー"
   URL = "/privacy/"
-  Weight = 3
+  Weight = 5
+[[Menus.main]]
+  Name = "お問い合わせ"
+  URL = "/inquiry/"
+  Weight = 6
 
 [markup] # インラインHTMLを有効化
   [markup.goldmark]
